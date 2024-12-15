@@ -1,0 +1,33 @@
+,idx,so_file,gh_file,p1,p2,p3,p4,edits
+0,adaptation-so-001,so-2920419-3-1,gh-1-1-54-103,0,0,1,0,"['Change_Curly_Brace', 'Update_Constant_Value', 'Delete_UnKnown_Variable_Or_Call', 'Change_Method_Call', 'Change_Conditional_Expression', 'Inline_Field', 'Change_Comment', 'Factor_Out_Constant']"
+1,adaptation-so-056,so-14565436-0-5,gh-0-2-180-209,1,0,1,0,"['Rename', 'Change_Curly_Brace', 'Change_Method_Call', 'Change_Conditional_Expression', 'Insert_If_Check', 'Change_Comment', 'Change_Access_Modifier']"
+2,adaptation-so-173,so-27455330-2-4,gh-0-2-106-131,0,0,0,0,"['Change_Annotation', 'Update_Type']"
+3,adaptation-so-190,so-7161653-1-1,gh-0-1-145-176,1,1,1,0,"['Insert_Final_Modifier', 'Change_Conditional_Expression', 'Inline_Field', 'Insert_If_Check', 'Change_Comment', 'Declare_Unknown_Variable', 'Update_Type', 'Change_Access_Modifier']"
+4,adaptation-so-194,so-18046750-0-2,gh-11-2-157-175,0,0,0,0,"['Change_Curly_Brace', 'Change_Access_Modifier']"
+5,adaptation-so-213,so-24539704-0-1,gh-2-1-110-148,0,0,0,0,['Update_Type']
+6,adaptation-so-283,so-11171509-0-1,gh-0-3-9-23,0,0,0,1,"['Change_Method_Call', 'Declare_Unknown_Variable', 'Update_Type', 'Change_Access_Modifier']"
+7,adaptation-so-329,so-85266-0-2,gh-0-2-10-19,0,0,0,0,"['Change_Conditional_Expression', 'Change_Annotation', 'Change_Access_Modifier']"
+8,adaptation-so-388,so-4281243-0-2,gh-0-1-76-113,0,1,0,0,"['Change_Catch_Block', 'Insert_Final_Modifier', 'Update_Constant_Value', 'Delete_UnKnown_Variable_Or_Call', 'Change_Method_Call', 'Change_Logging', 'Declare_Unknown_Variable', 'Update_Type', 'Change_Access_Modifier']"
+9,adaptation-so-388,so-4281243-0-2,gh-1-1-29-88,0,1,0,0,"['Change_Catch_Block', 'Insert_Final_Modifier', 'Change_Curly_Brace', 'Update_Constant_Value', 'Delete_UnKnown_Variable_Or_Call', 'Change_Method_Call', 'Change_Logging', 'Change_Comment', 'Declare_Unknown_Variable', 'Update_Type', 'Change_Access_Modifier']"
+10,adaptation-so-416,so-5626208-0-4,gh-0-1-21-67,0,1,0,0,"['Rename', 'Update_Type']"
+11,adaptation-so-416,so-5626208-0-4,gh-5-1-18-60,0,0,0,0,"['Rename', 'Update_Type']"
+12,adaptation-so-416,so-5626208-0-4,gh-6-1-18-61,0,0,0,0,['Change_Method_Call']
+13,adaptation-so-420,so-1069124-1-1,gh-0-2-86-105,0,0,0,0,"['Change_Comment', 'Change_Access_Modifier']"
+14,adaptation-so-423,so-33164852-0-2,gh-0-1-47-71,0,1,0,0,"['Change_Method_Call', 'Declare_Unknown_Variable', 'Change_Annotation', 'Change_Access_Modifier']"
+15,adaptation-so-517,so-2197650-0-2,gh-10-2-52-70,0,0,0,0,"['Rename', 'Update_Constant_Value', 'Insert_If_Check']"
+16,adaptation-so-517,so-2197650-0-2,gh-15-1-10-20,0,0,0,0,['Rename']
+17,adaptation-so-518,so-21940193-3-1,gh-0-2-244-258,0,1,0,2,"['Handle_New_Exception', 'Rename', 'Insert_Delete_Thrown_Exception', 'Change_Method_Call', 'Factor_Out_Constant', 'Change_Access_Modifier']"
+18,adaptation-so-518,so-21940193-3-1,gh-1-2-260-275,0,1,0,2,"['Handle_New_Exception', 'Rename', 'Insert_Delete_Thrown_Exception', 'Change_Method_Call', 'Factor_Out_Constant', 'Change_Access_Modifier']"
+19,adaptation-so-536,so-14814245-0-1,gh-1-1-334-433,0,0,0,0,"['Rename', 'Update_Constant_Value', 'Insert_If_Check', 'Change_Logging', 'Change_Comment']"
+20,adaptation-so-551,so-33070838-0-1,gh-1-1-39-57,0,0,0,0,"['Rename', 'Change_Catch_Block', 'Insert_Final_Modifier', 'Change_Method_Call', 'Change_Conditional_Expression', 'Change_Logging', 'Change_Comment', 'Change_Annotation', 'Update_Type', 'Change_Access_Modifier']"
+21,adaptation-so-571,so-1562857-0-1,gh-0-1-75-125,0,0,0,0,"['Insert_Final_Modifier', 'Change_Comment', 'Update_Type', 'Change_Access_Modifier']"
+22,adaptation-so-603,so-6702029-0-2,gh-0-2-778-810,0,0,0,0,"['Change_Curly_Brace', 'Change_Comment', 'Update_Type']"
+23,adaptation-so-603,so-6702029-0-2,gh-11-1-195-231,0,0,0,0,"['Change_Curly_Brace', 'Update_Type', 'Change_Access_Modifier']"
+24,adaptation-so-603,so-6702029-0-2,gh-12-2-57-89,0,0,0,0,"['Change_Curly_Brace', 'Change_Comment']"
+25,adaptation-so-603,so-6702029-0-2,gh-18-1-129-162,1,0,0,0,"['Rename', 'Change_Method_Call', 'Insert_If_Check', 'Change_Comment']"
+26,adaptation-so-603,so-6702029-0-2,gh-24-1-126-144,0,0,0,0,"['Rename', 'Change_Method_Call', 'Change_Comment']"
+27,adaptation-so-603,so-6702029-0-2,gh-28-1-85-100,0,0,0,0,"['Change_Comment', 'Update_Type', 'Change_Access_Modifier']"
+28,adaptation-so-603,so-6702029-0-2,gh-8-1-40-78,0,0,0,0,"['Handle_New_Exception', 'Rename', 'Change_Curly_Brace', 'Insert_Delete_Try_Catch', 'Change_Comment', 'Update_Type']"
+29,adaptation-so-603,so-6702029-0-2,gh-9-1-26-57,0,0,0,0,"['Rename', 'Insert_Final_Modifier', 'Change_Curly_Brace', 'Change_Comment']"
+30,adaptation-so-609,so-8003222-9-1,gh-0-1-349-397,0,1,0,0,"['Rename', 'Delete_UnKnown_Variable_Or_Call', 'Change_Comment']"
+31,adaptation-so-613,so-4937713-3-3,gh-1-1-88-111,0,0,0,0,[]
